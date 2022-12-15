@@ -1,6 +1,8 @@
-# Testing website: Paynplay-casinos.com
+# Website under test:
+[Paynplay-casinos.com](https://paynplay-casinos.com)
 
-## Under Test: Basic Functionality
+## Testing score:
+Basic Functionality
 
 ## Testing with Playwright
 ```yarn install```
