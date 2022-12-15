@@ -7,26 +7,25 @@
 
 Inside that directory, you can run several commands:
 
- ``` yarn playwright test```
-    Runs the end-to-end tests.
+Runs the end-to-end tests.
+``` yarn playwright test```
 
-  ```yarn playwright test --project=chromium```
-    Runs the tests only on Desktop Chrome.
+Runs the tests only on Desktop Chrome.
+```yarn playwright test --project=chromium```
 
-  ```yarn playwright test example```
-    Runs the tests in a specific file.
+Runs the tests in a specific file.
+```yarn playwright test example```
 
-  ```yarn playwright test --debug```
-    Runs the tests in debug mode.
+Runs the tests in debug mode.
+```yarn playwright test --debug```
 
-  ```yarn playwright codegen```
-    Auto generate tests with Codegen.
+Auto generate tests with Codegen.
+```yarn playwright codegen```
 
 We suggest that you begin by typing:
-
-    ```yarn playwright test```
+```yarn playwright test```
 
 ## Reporting with Playwright
 Playwright creates HTML Test Reports.
-    Run report code:
-    ```yarn playwright show-report```
+Run report code:
+```yarn playwright show-report```
