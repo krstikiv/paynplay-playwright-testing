@@ -1,0 +1,12 @@
+{
+  "name": "paynplay-playwright-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/krstikiv/paynplay-playwright-testing.git",
+  "author": "Iva Krstik <krstikiv@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  },
+  "scripts": {}
+}
